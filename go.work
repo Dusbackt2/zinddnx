@@ -1,0 +1,14 @@
+go 1.20
+
+use(
+    myZinx
+    myZinx2
+    myZinx3
+    myZinx4
+    myZinx5
+    myZinx6
+    myZinx7
+    myZinx8
+    myZinx9
+    myZinx10
+)

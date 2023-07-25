@@ -1,0 +1,6 @@
+{
+  "Name": "wanghuihui",
+  "Host": "127.0.0.1",
+  "TcpPort": 8369,
+  "MaxConn": 3
+}
